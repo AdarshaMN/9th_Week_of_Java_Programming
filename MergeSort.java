@@ -7,7 +7,6 @@ public class MergeSort {
         int i = low;
         int j = mid + 1;
         int k = 0;
-
         //compare
         while(i <= mid && j <= high)
         {
